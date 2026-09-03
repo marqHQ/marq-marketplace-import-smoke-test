@@ -1,7 +1,7 @@
 {
   "name": "import-smoke-test",
   "description": "Sales workflows for qualifying deals, auditing pipeline hygiene, coaching calls, and personalizing Mutual Action Plans at Marq, plus workflow utilities.",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "author": {
     "name": "Marq Sales"
   }
