@@ -1,6 +1,6 @@
 {
   "name": "import-smoke-test",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Sales workflows for qualifying deals, auditing pipeline hygiene, coaching calls, and personalizing Mutual Action Plans at Marq, plus workflow utilities.",
   "author": {
     "name": "Marq Sales"
@@ -27,7 +27,9 @@
     "category": "Productivity",
     "capabilities": ["Interactive", "Scheduled", "Read", "Write"],
     "defaultPrompt": [
-      "Run the workspace marketplace import smoke test."
+      "Convert this HubSpot MQL deal into an SQO.",
+      "Audit my open HubSpot Sales Pipeline and prepare evidence-backed hygiene updates for approval.",
+      "Use $map-personalization to build a personalized MAP for this prospect."
     ]
   }
 }
