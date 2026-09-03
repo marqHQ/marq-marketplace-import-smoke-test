@@ -1,0 +1,20 @@
+{
+  "name": "marq-import-smoke-test",
+  "interface": {
+    "displayName": "Marq Import Smoke Test"
+  },
+  "plugins": [
+    {
+      "name": "import-smoke-test",
+      "source": {
+        "source": "local",
+        "path": "./plugins/import-smoke-test"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
