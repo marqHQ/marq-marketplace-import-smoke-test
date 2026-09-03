@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "marq-sales",
+      "name": "import-smoke-test",
       "source": {
         "source": "local",
-        "path": "./plugins/marq-sales"
+        "path": "./plugins/import-smoke-test"
       },
       "policy": {
         "installation": "AVAILABLE",

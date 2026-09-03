@@ -1,0 +1,22 @@
+{
+  "name": "import-smoke-test",
+  "version": "1.0.0",
+  "description": "A minimal control plugin for testing workspace marketplace imports.",
+  "author": {
+    "name": "Marq"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Import Smoke Test",
+    "shortDescription": "Verify workspace marketplace imports",
+    "longDescription": "A minimal plugin used only to verify that GitHub marketplace imports work in the Marq workspace.",
+    "developerName": "Marq",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Run the workspace marketplace import smoke test."
+    ]
+  }
+}
