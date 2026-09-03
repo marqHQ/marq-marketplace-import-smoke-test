@@ -1,6 +1,6 @@
 {
   "name": "import-smoke-test",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Sales workflows for qualifying deals, auditing pipeline hygiene, coaching calls, and personalizing Mutual Action Plans at Marq, plus workflow utilities.",
   "author": {
     "name": "Marq Sales"
@@ -20,7 +20,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Marq Sales Import Test",
+    "displayName": "Marq Sales",
     "shortDescription": "AI Skills so you can spend more time practicing your putting",
     "longDescription": "A collection of AI skills for the daily workflow of a Marq Sales rep",
     "developerName": "Marq Sales",
