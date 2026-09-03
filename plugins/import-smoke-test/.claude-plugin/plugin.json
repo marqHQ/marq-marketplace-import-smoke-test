@@ -1,7 +1,7 @@
 {
   "name": "import-smoke-test",
   "description": "A minimal control plugin for testing workspace marketplace imports.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Marq"
   }

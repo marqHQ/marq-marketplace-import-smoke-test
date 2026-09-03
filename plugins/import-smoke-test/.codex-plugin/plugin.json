@@ -1,10 +1,23 @@
 {
   "name": "import-smoke-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A minimal control plugin for testing workspace marketplace imports.",
   "author": {
     "name": "Marq"
   },
+  "license": "UNLICENSED",
+  "keywords": [
+    "sales",
+    "hubspot",
+    "gong",
+    "pipeline",
+    "qualification",
+    "coaching",
+    "spiced",
+    "mutual-action-plan",
+    "personalization",
+    "brandfetch"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Import Smoke Test",
