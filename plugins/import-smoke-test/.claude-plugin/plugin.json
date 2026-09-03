@@ -1,8 +1,8 @@
 {
   "name": "import-smoke-test",
-  "description": "A minimal control plugin for testing workspace marketplace imports.",
-  "version": "1.0.3",
+  "description": "Sales workflows for qualifying deals, auditing pipeline hygiene, coaching calls, and personalizing Mutual Action Plans at Marq, plus workflow utilities.",
+  "version": "1.0.4",
   "author": {
-    "name": "Marq"
+    "name": "Marq Sales"
   }
 }
